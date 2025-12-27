@@ -12,7 +12,7 @@ The project focuses on applying **algorithmic thinking, clean code principles, a
 
 This project is one of the **practical projects** in:
 
-**Algorithms & Problem Solving – Level 4**  
+**Algorithms & Problem Solving – Level 3**  
 An advanced, practice-intensive course designed to build:
 - Programming endurance
 - Clean and structured problem solving
