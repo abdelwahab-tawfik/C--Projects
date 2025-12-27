@@ -1,0 +1,1 @@
+void PerformATMQuickWithdrawOption(enQuickWithdrawOptions Option);
